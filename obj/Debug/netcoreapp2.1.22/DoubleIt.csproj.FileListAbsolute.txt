@@ -1,0 +1,12 @@
+/Users/oliviacubela/double-it/bin/Debug/netcoreapp2.1.22/DoubleIt.deps.json
+/Users/oliviacubela/double-it/bin/Debug/netcoreapp2.1.22/DoubleIt.runtimeconfig.json
+/Users/oliviacubela/double-it/bin/Debug/netcoreapp2.1.22/DoubleIt.runtimeconfig.dev.json
+/Users/oliviacubela/double-it/bin/Debug/netcoreapp2.1.22/DoubleIt.dll
+/Users/oliviacubela/double-it/bin/Debug/netcoreapp2.1.22/DoubleIt.pdb
+/Users/oliviacubela/double-it/obj/Debug/netcoreapp2.1.22/DoubleIt.csprojAssemblyReference.cache
+/Users/oliviacubela/double-it/obj/Debug/netcoreapp2.1.22/DoubleIt.AssemblyInfoInputs.cache
+/Users/oliviacubela/double-it/obj/Debug/netcoreapp2.1.22/DoubleIt.AssemblyInfo.cs
+/Users/oliviacubela/double-it/obj/Debug/netcoreapp2.1.22/DoubleIt.csproj.CoreCompileInputs.cache
+/Users/oliviacubela/double-it/obj/Debug/netcoreapp2.1.22/DoubleIt.dll
+/Users/oliviacubela/double-it/obj/Debug/netcoreapp2.1.22/DoubleIt.pdb
+/Users/oliviacubela/double-it/obj/Debug/netcoreapp2.1.22/DoubleIt.genruntimeconfig.cache
